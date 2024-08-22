@@ -18,7 +18,7 @@
     
     
 is_member=True
-age=15
+age=20
 if is_member:
         if age>=15:
             print("puedes entrar")
